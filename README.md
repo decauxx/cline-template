@@ -26,7 +26,7 @@ cline-template/
 └── README.md            # This file
 ```
 
-## 🎯 What's Included
+## 📌 What's Included
 
 ### Coding Standards (`.clinerules/coding.md`)
 Comprehensive coding guidelines covering:
@@ -123,7 +123,7 @@ When contributing to projects using this template:
 3. Update documentation according to `.clinerules/documentation.md`
 5. Submit a pull request
 
-## 📄 License
+## ⚖️ License
 
 This template is licensed under the terms of the MIT license.It is provided as-is for use in your projects. Modify and adapt as needed for your specific requirements.
 
