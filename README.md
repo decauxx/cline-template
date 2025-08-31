@@ -8,21 +8,21 @@ A comprehensive starter template for Cline AI assistant projects, providing stru
 3. **Customize the rules and documentation for your specific needs**
 4. **Update the project brief in memory-bank/projectBrief.md**
 5. **Ask Cline to "intialize memory bank"**
-6. **Start coding with Cline using the established guidelines**
+6. **Start coding with Cline**
 
 ## 📁 Template Structure
 
 ```
 cline-template/
-├── .clinerules/           # Cline AI assistant rules and guidelines
-│   ├── coding.md         # Comprehensive coding standards and best practices
+├── .clinerules/           # Cline AI assistant rules
+│   ├── coding.md         # Coding standards and best practices
 │   └── documentation.md  # Documentation requirements and guidelines
 ├── docs/                 # Project documentation
 │   ├── ADR.md           # Architecture Decision Records template (intially empty)
 │   └── CHANGELOG.md     # Change log template (intially empty)
 ├── memory-bank/          # Cline memory storage
 │   └── .clinerules      # Memory-specific rules
-│   └── projectBrief.md  # Project brief (to be added)
+│   └── projectBrief.md  # Project brief (initally empty - add your project brief here)
 └── README.md            # This file
 ```
 
@@ -88,7 +88,7 @@ The Cline AI assistant will automatically use the rules and guidelines defined i
 
 ## 📋 Features
 
-- **🎨 Comprehensive Coding Standards**: Modern best practices for JavaScript/TypeScript, UI/UX, and full-stack development
+- **🎨 Coding Standards**: Modern best practices for JavaScript/TypeScript, UI/UX, and full-stack development
 - **📚 Documentation Framework**: Structured approach to maintaining project documentation
 - **🧠 Memory Management**: Configured memory bank for Cline AI assistant context persistence
 - **🏗️ Architecture Guidance**: Templates for documenting technical decisions
@@ -118,13 +118,14 @@ The Cline AI assistant will automatically use the rules and guidelines defined i
 
 When contributing to projects using this template:
 
-1. Update coding standards in `.clinerules/coding.md` to align with current best practices
-2. Update documentation according to `.clinerules/documentation.md`
-3. Record significant changes in `CHANGELOG.md`
+1. Fork this repository
+2. Update coding standards in `.clinerules/coding.md` to align with current best practices
+3. Update documentation according to `.clinerules/documentation.md`
+5. Submit a pull request
 
 ## 📄 License
 
-This template is provided as-is for use in your projects. Modify and adapt as needed for your specific requirements.
+This template is licensed under the terms of the MIT license.It is provided as-is for use in your projects. Modify and adapt as needed for your specific requirements.
 
 ## 🔗 Related Resources
 
